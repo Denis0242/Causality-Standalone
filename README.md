@@ -151,10 +151,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+**Denis Agyapong**
+### 🌍 Links:
+📍 Oakland, CA  
+📧 vantjohnn@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
+📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
+🐙 [GitHub](https://github.com/Denis0242)
 
 ## 🙏 Acknowledgments
 
@@ -162,10 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Scikit-learn community
 - SHAP library developers
 - Streamlit team
-
-## 📞 Support
-
-For support, email your.email@example.com or open an issue on GitHub.
 
 ---
 
